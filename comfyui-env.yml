@@ -4,17 +4,8 @@ dependencies:
   - pip
   - pip:
     - torch
-    - torchsde
-    - einops
-    - transformers>=4.25.1
-    - safetensors>=0.3.0
-    - aiohttp
-    - accelerate
-    - pyyaml
-    - Pillow
-    - scipy
-    - tqdm
-    - psutil
+    - torchvision
+    - torchaudio
   - conda
   - conda:
     - ipykernel
