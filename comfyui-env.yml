@@ -2,10 +2,6 @@ name: comfyui-env
 dependencies:
   - python=3.9
   - pip
-  - pip:
-    - torch
-    - torchvision
-    - torchaudio
   - conda
   - conda:
     - ipykernel
