@@ -1,7 +1,0 @@
-name: comfyui-env
-dependencies:
-  - python=3.9
-  - pip
-  - conda
-  - conda:
-    - ipykernel
